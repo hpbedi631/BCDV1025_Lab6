@@ -19,6 +19,7 @@
     "dependencies": {
         "fabric-contract-api": "^2.0.0",
         "fabric-shim": "^2.0.0",
+        "is-json": "^2.0.1",
         "json-stringify-deterministic": "^1.0.1",
         "moment": "^2.29.4",
         "randomstring": "^1.2.3",
